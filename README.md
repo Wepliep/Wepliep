@@ -1,4 +1,4 @@
-# 💻 About Me:
+# 👨‍💻 About Me:
 🛡️Cyber Security<br>🕵🏼‍♂️Digital Forensics Engineer Student<br>🐉PIXEL CTF Team Captain<br>🎨Digital Art<br>🎻Violin lover
 
 
