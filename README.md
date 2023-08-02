@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🛡️Cyber Security<br>🕵🏼‍♂️Digital Forensics Engineer Student<br>🐉PIXEL CTF Team Captain<br>HacktorX Site Admin & Author<br>🎨Digital Art<br>🎻Violin lover
+🛡️Cyber Security<br>🕵🏼‍♂️Digital Forensics Engineer Student<br>🐉PIXEL CTF Team Captain<br>💻HacktorX Site Admin & Author<br>🎨Digital Art<br>🎻Violin lover
 
 
 ## 🌐 Socials:
